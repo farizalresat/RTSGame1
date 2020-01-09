@@ -18,6 +18,9 @@ func _process(delta):
             - int(Input.is_action_just_pressed("ui_up")))
 	position.x = lerp(position.x, position.x + inpx, speed)
 	position.y = lerp(position.y, position.y + inpy, speed)
-	
+	#print(position)
 	pass
 
+func _input(event):
+	print(position)
+	pass
