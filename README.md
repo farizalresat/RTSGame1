@@ -13,3 +13,6 @@ Godot RTS First Experiment
   - Committing this Readme update on this Github Repository
 - 9/1/2020 - Did few things:
   - Backing this Readme in another branch
+  - Pull and Push, then merge this backu branch.
+  - Tomorrow will pull again, work and push. Crossing my fingers
+  
