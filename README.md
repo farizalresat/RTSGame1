@@ -11,3 +11,5 @@ Godot RTS First Experiment
   - Cloned [godoto demos by GDQuest](https://github.com/GDQuest/godot-demos/tree/master/2018) to my pc
   - Testing the [Camera2D Rig Demo](https://github.com/GDQuest/godot-demos/tree/master/2018/03-16-camera-2d-rig) on Godot
   - Committing this Readme update on this Github Repository
+- 9/1/2020 - Did few things:
+  - Backing this Readme in another branch
