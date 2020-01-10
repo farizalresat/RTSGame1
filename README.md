@@ -15,4 +15,4 @@ Godot RTS First Experiment
   - Backing this Readme in another branch
   - Pull and Push, then merge this backu branch.
   - Tomorrow will pull again, work and push. Crossing my fingers
-  
+- 10/1/2020 - Learning more about Camera2D... Learning [Godot UI in YouTube](https://www.youtube.com/watch?v=y1E_y9AIqow)
